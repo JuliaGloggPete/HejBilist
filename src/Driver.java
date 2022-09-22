@@ -1,7 +1,7 @@
 public class Driver {
 
-    String name;
-    int age;
+    private String name;
+    private int age;
 
     public Driver(String name, int age) {
         this.name = name;

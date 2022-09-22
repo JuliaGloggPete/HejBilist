@@ -1,10 +1,10 @@
 public class Vehicle {
 
-    int milesToGo;
-    boolean hasDriver;
+    protected int milesToGo;
+    protected boolean hasDriver;
 
-    int minAge;
-    String type;
+    protected int minAge;
+    protected String type;
 
     Driver driver;
 
